@@ -9,9 +9,9 @@ $map     = '';
 $avatar  = 'img/nouser.png';
 
 $authors = array(
-    1 => 'FIRST SONG NAME',
-    2 => 'SECOND SONG NAME',
-    3 => 'THIRD SONG NAME'
+    1 => 'Dejans - Missing You',
+    2 => 'Pegboard Nerds - Emergency',
+    3 => 'Tristam - I Remember'
 );
 
 $pictures = array(1,2,3);
@@ -58,20 +58,20 @@ if (isset($_GET['steamid'])) {
                     echo '<img src="img/'.$pic.'.jpg" alt="Picture '.$pic.'" class="imgtop img-rounded">';
                 }?>
             </div>
-            <h1 id="title" class="bigEntrance" style="font-size: 50px;">Cheesy Hans Gaming</h1>
+            <h1 id="title" class="bigEntrance" style="font-size: 50px;">BlueCluster Gaming</h1>
             <p class="lead">
-                Welcome to our TTT-Server. Have fun!<br>
+                Welcome to our FutureRP Server. Have fun!<br>
                 <small>
                     <ul style="line-height: 1.6;">
                         <li>Be friendly.</li>
-                        <li>No random killing - low karma autoban enabled.</li>
-                        <li>No Ghosting!</li>
-                        <li>Only English or German.</li>
-                        <li>Admins are kicking/baning if something is wrong.</li>
+                        <li>No RDM or RDA - this will get you autobanned.</li>
+                        <li>No FDA or propsurfing!</li>
+                        <li>Only English is allowed on the server..</li>
+                        <li>Respect admins.</li>
                     </ul>
                     All used Workshop items can be found here:
                     <br>
-                    <code>www.steamcommunity.com/id/<b>xunocore</b></code><br>→ TTT-Servercontent DL (Link)
+                    <code>http://steamcommunity.com/sharedfiles/filedetails/?id=422419220</code><br>→ Server Content DL (Link)
                 </small>
             </p>
 
