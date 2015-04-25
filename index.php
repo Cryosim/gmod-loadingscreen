@@ -21,7 +21,7 @@ if (isset($_GET['mapname']))
     $map = '<br>You will play the map: '.$_GET['mapname'];
 
 if (isset($_GET['steamid'])) {
-    $data = 'http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&steamids='.$_GET['steamid'];
+    $data = 'http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=CAE597A8A11B8A30666CF8F3E2364EF3&steamids='.$_GET['steamid'];
     $f = file_get_contents($data);
     $arr = json_decode($f, true);
     if (isset($arr['response']['players'][0]['personaname']))
