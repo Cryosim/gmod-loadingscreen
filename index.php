@@ -60,7 +60,7 @@ if (isset($_GET['steamid'])) {
             </div>
             <h1 id="title" class="bigEntrance" style="font-size: 50px;">BlueCluster Gaming</h1>
             <p class="lead">
-                Welcome to our FutureRP Server. Have fun!<br>
+                Welcome to our HL2RP Server. Have fun!<br>
                 <small>
                     <ul style="line-height: 1.6;">
                         <li>Be friendly.</li>
