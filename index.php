@@ -55,7 +55,7 @@ if (isset($_GET['steamid'])) {
         <div class="jumbotron" style="margin-top: 50px;">
             <div class="pull-right cycle-slideshow" data-cycle-fx="none">
                 <?php foreach ($pictures as $pic) {
-                    echo '<img src="img/'.$pic.'.jpg" alt="Picture '.$pic.'" class="imgtop img-rounded">';
+                    echo '<img src="img/'.$pic.'.png" alt="Picture '.$pic.'" class="imgtop img-rounded">';
                 }?>
             </div>
             <h1 id="title" class="bigEntrance" style="font-size: 50px;">BlueCluster Gaming</h1>
