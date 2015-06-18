@@ -3,15 +3,15 @@
 error_reporting(0);
 @set_time_limit(3);
 
-$r       = mt_rand(1,3);
+$r       = mt_rand(1,1);
 $plname  = 'Player';
 $map     = '';
 $avatar  = 'img/nouser.png';
 
 $authors = array(
-    1 => 'Dejans - Missing You',
-    2 => 'Pegboard Nerds - Emergency',
-    3 => 'Tristam - I Remember'
+    1 => 'Triage at Dawn - Extended Mix',
+    2 => 'Triage at Dawn - Extended Mix',
+    3 => 'Triage at Dawn - Extended Mix'
 );
 
 $pictures = array(1,2,3);
