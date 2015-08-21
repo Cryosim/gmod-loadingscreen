@@ -9,9 +9,9 @@ $map     = '';
 $avatar  = 'img/nouser.png';
 
 $authors = array(
-    1 => 'Triage at Dawn - Extended Mix',
-    2 => 'Triage at Dawn - Extended Mix',
-    3 => 'Triage at Dawn - Extended Mix'
+    1 => 'Sector Sweep - Extended Mix',
+    2 => 'Sector Sweep - Extended Mix',
+    3 => 'Sector Sweep - Extended Mix'
 );
 
 $pictures = array(1,2,3);
@@ -60,14 +60,14 @@ if (isset($_GET['steamid'])) {
             </div>
             <h1 id="title" class="bigEntrance" style="font-size: 50px;">BlueCluster Gaming</h1>
             <p class="lead">
-                Welcome to our HL2RP Server. Have fun!<br>
+                Welcome to our DarkRP Server. Have fun!<br>
                 <small>
                     <ul style="line-height: 1.6;">
-                        <li>Be friendly.</li>
-                        <li>No RDM or RDA - this will get you autobanned.</li>
-                        <li>No FDA or propsurfing!</li>
-                        <li>Only English is allowed on the server..</li>
-                        <li>Respect admins.</li>
+                        <li>Stay in RP when possible.</li>
+                        <li>No RDM, RDA, or RDP.</li>
+                        <li>No FailRP. FearRP is in effect.</li>
+                        <li>Do not propspam, ropespam or propblock.</li>
+                        <li>Use /ooc when you would like to speak out-of-character.</li>
                     </ul>
                     All used Workshop items can be found here:
                     <br>
